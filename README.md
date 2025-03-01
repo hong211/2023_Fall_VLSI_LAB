@@ -1,4 +1,4 @@
-# 2023_Fall_VLSI_LAB
+# 2023_Fall_VLSILAB
 開課教授:張錫嘉
 
 密碼：vlsilab2023
